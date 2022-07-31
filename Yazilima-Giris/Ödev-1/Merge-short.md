@@ -13,5 +13,6 @@
 [8,11,12,16,21,22]
 
 ##########################
+
 Big-O gösterimini yaz.
 2^x=n logn=x olduğu için gösterimi ; O(nlogn).

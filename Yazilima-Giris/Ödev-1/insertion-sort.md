@@ -11,15 +11,18 @@ Yukarı verilen dizinin sort türüne göre aşamalarını yazın.
 [2,6,16,18,22,27]
 
 ###########################
+
 Big-O gösterimini yazınız.
 
 (n²+n)/2 olduğu için gösterimi; O(n²)
+
 ###########################
 
 18 dizinin sıralanmış halinin ortasında olduğu için "Avarage Case" olur.
 
 
 ###########################
+
 [7,3,5,8,2,9,4,15,6] dizisinin Insertion Sort'a göre ilk 4 adımını yazınız.
 
 [2,3,5,8,7,9,4,15,6] ilk adım
