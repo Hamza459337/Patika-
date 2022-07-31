@@ -15,4 +15,5 @@
 ##########################
 
 Big-O gösterimini yaz.
+
 2^x=n logn=x olduğu için gösterimi ; O(nlogn).
